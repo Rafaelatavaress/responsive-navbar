@@ -85,7 +85,7 @@ section:nth-child(even){
 }
 
 .container:nth-child(odd){
-    background: #9f8cac;
+    background: transparent;
 }
 
 .container:nth-child(even){
